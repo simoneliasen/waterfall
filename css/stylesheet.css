@@ -1,0 +1,74 @@
+/*General styling  */
+* {
+  margin: 10px;
+  background-color: #27ae60;
+  overflow:hidden;
+}
+h1 {
+  color: white;
+}
+/* Button style */
+.btn {
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	color: #2980b9;
+	background: #27ae60;
+	cursor: pointer;
+	padding: 25px 80px;
+	display: inline-block;
+	margin: 15px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+/* Button 1 */
+.btn-1 {
+	border: 3px solid #fff;
+	color: #fff;
+}
+/* Button 1a */
+.btn-1a:hover,
+.btn-1a:active {
+	color: #0e83cd;
+	background: #fff;
+}
+
+/*Index page  */
+.indexwrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#letsplay {
+margin-top: 3%;
+margin-bottom: 7%;
+}
+/*What are u drinking.html  */
+.whatareudrinking {
+  margin-top: 6em;
+}
+h1 {
+  color: white;
+}
+
+
+
+
+
+
+/*Drinking game.html  */
+#text {
+  color: white;
+  font-size: 30px;
+}
+#subtext {
+  font-size: 20px;
+  color: white;
+  max-width: 300px;
+}
